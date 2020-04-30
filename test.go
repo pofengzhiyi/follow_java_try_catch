@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /**
 * @Author: 作者名称
 * @Description: 功能描述
@@ -7,3 +9,7 @@ package main
 * @Param 参数
 * @return 返回值
 **/
+
+func main() {
+	fmt.Println("胜多负少")
+}
