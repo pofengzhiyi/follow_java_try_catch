@@ -11,5 +11,5 @@ import "fmt"
 **/
 
 func main() {
-	fmt.Println("胜多负少")
+	fmt.Println("测试测试")
 }
